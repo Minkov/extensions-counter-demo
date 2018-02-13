@@ -1,0 +1,152 @@
+{
+  "exts": [
+    {
+      "name": "js",
+      "count": 2082
+    },
+    {
+      "name": "json",
+      "count": 180
+    },
+    {
+      "name": "lock",
+      "count": 2
+    },
+    {
+      "name": "yarn-integrity",
+      "count": 1
+    },
+    {
+      "name": "md",
+      "count": 175
+    },
+    {
+      "name": "npmignore",
+      "count": 22
+    },
+    {
+      "name": "yml",
+      "count": 30
+    },
+    {
+      "name": "txt",
+      "count": 10
+    },
+    {
+      "name": "markdown",
+      "count": 9
+    },
+    {
+      "name": "patch",
+      "count": 1
+    },
+    {
+      "name": "closure-compiler",
+      "count": 1
+    },
+    {
+      "name": "esprima",
+      "count": 1
+    },
+    {
+      "name": "eslintrc",
+      "count": 1
+    },
+    {
+      "name": "BSD",
+      "count": 3
+    },
+    {
+      "name": "babelrc",
+      "count": 2
+    },
+    {
+      "name": "jshintrc",
+      "count": 1
+    },
+    {
+      "name": "realpath/LICENSE",
+      "count": 1
+    },
+    {
+      "name": "ts",
+      "count": 4
+    },
+    {
+      "name": "flow",
+      "count": 1
+    },
+    {
+      "name": "map",
+      "count": 7
+    },
+    {
+      "name": "bnf",
+      "count": 1
+    },
+    {
+      "name": "APACHE2",
+      "count": 1
+    },
+    {
+      "name": "MIT",
+      "count": 1
+    },
+    {
+      "name": "keep",
+      "count": 2
+    },
+    {
+      "name": "whitelist",
+      "count": 1
+    },
+    {
+      "name": "after",
+      "count": 1
+    },
+    {
+      "name": "before",
+      "count": 1
+    },
+    {
+      "name": "info",
+      "count": 1
+    },
+    {
+      "name": "html",
+      "count": 7
+    },
+    {
+      "name": "jst",
+      "count": 26
+    },
+    {
+      "name": "def",
+      "count": 5
+    },
+    {
+      "name": "editorconfig",
+      "count": 1
+    },
+    {
+      "name": "gitattributes",
+      "count": 1
+    },
+    {
+      "name": "tern-project",
+      "count": 1
+    },
+    {
+      "name": "css",
+      "count": 2
+    },
+    {
+      "name": "png",
+      "count": 1
+    },
+    {
+      "name": "sh",
+      "count": 1
+    }
+  ]
+}
